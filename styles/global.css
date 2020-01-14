@@ -8,3 +8,8 @@ body{
     background-color:red;
     color: white;
 }
+
+.contenedor{
+    margin: 2rem;
+    padding: 1rem;
+}
