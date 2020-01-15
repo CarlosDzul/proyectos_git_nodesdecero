@@ -6,3 +6,4 @@ Podrás:
 - Crear repositorio
 - Comandos básicos
 - Trabajo colaborativo
+- Trabajando con ramas locales
