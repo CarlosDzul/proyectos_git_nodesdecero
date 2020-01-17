@@ -1,0 +1,6 @@
+LISTADO DE REQUERIMIENTOS
+
+Llamada con cliente del 26 de nov de 2020
+- Corregir desborde en la página de inicio
+- Cambiar fondo a todo el sitio a color oscuro
+- Aumentar tamaño de la fuente
